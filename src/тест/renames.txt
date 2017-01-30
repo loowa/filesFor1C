@@ -1,5 +1,7 @@
 ﻿165a20c9-f531-4185-85e9-4cb14dde03cc-->und\165a20c9-f531-4185-85e9-4cb14dde03cc
 copyinfo-->und\copyinfo
+d153abe2-bb75-48e3-b3c2-b680bba21751.0\info-->und\d153abe2-bb75-48e3-b3c2-b680bba21751.0\info
+d153abe2-bb75-48e3-b3c2-b680bba21751.0\text-->ObjectModule.bsl
 root-->und\root
 version-->und\version
 versions-->und\versions
